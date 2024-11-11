@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import { UserContext } from './UserContex';
+import { UserContext } from './UserContext';
 import UserCard from './UserCard';
 
 function UserList() {

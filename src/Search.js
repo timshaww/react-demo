@@ -1,5 +1,5 @@
 import React, { useContext, useRef } from 'react';
-import { UserContext } from './UserContex';
+import { UserContext } from './UserContext';
 
 function Search() {
   const { setUsers } = useContext(UserContext);

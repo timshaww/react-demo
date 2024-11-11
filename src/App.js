@@ -1,5 +1,5 @@
 import React from 'react';
-import { UserProvider } from './UserContex';
+import { UserProvider } from './UserContext';
 import UserList from './UserList';
 import Search from './Search';
 
